@@ -162,3 +162,11 @@
 [INFO  - 2022-06-21 22:46:16,768 - animals.cat::] mew mew
 [INFO  - 2022-06-21 22:46:16,769 - animals.cow::] mooooo
 [INFO  - 2022-06-21 22:46:16,769 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:51:49,697 - my_normal::] hello from my_normal logger
+[INFO  - 2022-06-21 22:51:49,698 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:51:49,698 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:51:49,698 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:52:06,682 - my_normal.__main__::] hello from my_normal logger
+[INFO  - 2022-06-21 22:52:06,683 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:52:06,683 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:52:06,683 - animals.fish::] blop blop

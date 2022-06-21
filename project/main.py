@@ -67,8 +67,8 @@ LOG_CONFIG = {
 
 logging.config.dictConfig(LOG_CONFIG)
 root_logger = logging.getLogger(__name__) # this is a root logger
-my_normal_logger = logging.getLogger('my_normal') # this is an `src` logger 
-my_detailed_logger = logging.getLogger('my_detailed') # this is 'my_detailed' 
+my_normal_logger = logging.getLogger('my_normal.' + __name__) # this is an `src` logger 
+my_detailed_logger = logging.getLogger('my_detailed.' + __name__) # this is 'my_detailed' 
 
 def main():
     root_logger.debug("hello from root logger")

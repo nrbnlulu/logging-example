@@ -20,3 +20,5 @@
 [WARNING - 2022-06-21 22:39:46,216 - my_detailed - 13662::module :main|Line: 77]  messages:[ hello from my_detailed logger ]
 [WARNING - 2022-06-21 22:42:41,314 - my_detailed - 13926::module :main|Line: 78]  messages:[ hello from my_detailed logger ]
 [WARNING - 2022-06-21 22:46:16,768 - my_detailed - 14194::module :main|Line: 78]  messages:[ hello from my_detailed logger ]
+[WARNING - 2022-06-21 22:51:49,697 - my_detailed.__main__ - 15127::module :main|Line: 78]  messages:[ hello from my_detailed logger ]
+[WARNING - 2022-06-21 22:52:06,682 - my_detailed.__main__ - 15177::module :main|Line: 78]  messages:[ hello from my_detailed logger ]
