@@ -8,3 +8,157 @@
 [INFO  - 2022-06-21 10:49:34,625 - animals.cat::] mew mew
 [INFO  - 2022-06-21 10:49:34,625 - animals.cow::] mooooo
 [INFO  - 2022-06-21 10:49:34,625 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:18:43,171 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:18:43,177 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:18:43,177 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:18:43,178 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:19:25,757 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:19:25,757 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:19:25,758 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:19:25,758 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:19:26,665 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:19:26,665 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:19:26,665 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:19:26,665 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:19:27,537 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:19:27,538 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:19:27,538 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:19:27,538 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:19:28,900 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:19:28,901 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:19:28,901 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:19:28,901 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:19:29,955 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:19:29,955 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:19:29,955 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:19:29,955 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:02,750 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:20:02,751 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:02,751 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:02,751 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:03,877 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:20:03,878 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:03,878 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:03,878 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:04,778 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:20:04,778 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:04,779 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:04,780 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:11,689 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:20:11,690 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:11,690 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:11,690 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:12,626 - __main__::] fdsafds
+[INFO  - 2022-06-21 22:20:12,626 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:12,626 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:12,628 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:20:32,959 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:32,959 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:32,959 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:20:33,907 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:33,907 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:33,907 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:20:35,504 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:35,505 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:35,505 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:20:35,638 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:35,639 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:35,639 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:20:40,043 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:40,044 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:40,044 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:20:40,912 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:40,912 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:40,912 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:56,549 - D.src::] hello from detL
+[INFO  - 2022-06-21 22:20:56,551 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:56,553 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:56,554 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:20:57,852 - D.src::] hello from detL
+[INFO  - 2022-06-21 22:20:57,853 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:20:57,853 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:20:57,853 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:26:45,120 - D.src::] hello from detL
+[INFO  - 2022-06-21 22:26:45,121 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:26:45,121 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:26:45,121 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:26:46,849 - D.src::] hello from detL
+[INFO  - 2022-06-21 22:26:46,849 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:26:46,849 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:26:46,850 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:27:06,962 - __main__::] hello from detL
+[INFO  - 2022-06-21 22:27:06,963 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:27:06,963 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:27:06,963 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:27:08,108 - __main__::] hello from detL
+[INFO  - 2022-06-21 22:27:08,109 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:27:08,109 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:27:08,109 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:27:08,733 - __main__::] hello from detL
+[INFO  - 2022-06-21 22:27:08,733 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:27:08,734 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:27:08,734 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:27:08,860 - __main__::] hello from detL
+[INFO  - 2022-06-21 22:27:08,861 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:27:08,861 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:27:08,861 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:27:17,950 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:27:17,950 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:27:17,952 - animals.fish::] blop blop
+[WARNING  - 2022-06-21 22:31:03,858 - normal::] hello from detL
+[INFO  - 2022-06-21 22:31:03,858 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:31:03,858 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:31:03,858 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:31:21,916 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:31:21,916 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:31:21,918 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:31:51,110 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:31:51,110 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:31:51,110 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:33:33,868 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:33:33,869 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:33:33,869 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:34:27,451 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:34:27,451 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:34:27,453 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:35:25,139 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:35:25,139 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:35:25,140 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:36:26,585 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:36:26,586 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:36:26,586 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:36:27,675 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:36:27,676 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:36:27,676 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:36:27,718 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:36:27,718 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:36:27,718 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:38:06,610 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:38:06,612 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:38:06,613 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:38:18,046 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:38:18,047 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:38:18,047 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:38:18,126 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:38:18,127 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:38:18,127 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:39:25,917 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:39:25,918 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:39:25,918 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:39:26,033 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:39:26,033 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:39:26,033 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:39:42,888 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:39:42,889 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:39:42,889 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:39:46,217 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:39:46,217 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:39:46,217 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:42:41,314 - my_normal::] hello from my_normal logger
+[INFO  - 2022-06-21 22:42:41,316 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:42:41,316 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:42:41,316 - animals.fish::] blop blop
+[INFO  - 2022-06-21 22:46:16,768 - my_normal::] hello from my_normal logger
+[INFO  - 2022-06-21 22:46:16,768 - animals.cat::] mew mew
+[INFO  - 2022-06-21 22:46:16,769 - animals.cow::] mooooo
+[INFO  - 2022-06-21 22:46:16,769 - animals.fish::] blop blop
